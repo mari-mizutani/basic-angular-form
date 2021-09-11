@@ -153,4 +153,4 @@ A POST request to add a friend to your friend list.
 
 Go jump into it, you've got this! Like Einstein once said: “In the middle of every difficulty lies opportunity.”.
 
-![Einstein!](https://media.giphy.com/media/3o6ZsSPemnF31VogEw/giphy.gif)
+![screenshot](screenshot.png)
